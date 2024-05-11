@@ -58,7 +58,7 @@ class _AlcoholVsGasolineState extends State<AlcoholVsGasoline> {
       appBar: AppBar(
         title:  Text('Alcool ou Gasolina'),
       ),
-      backgroundColor: Colors.green,
+      backgroundColor: Colors.white,
       body: Padding(
         padding: EdgeInsets.all(20.0),
         child: Column(
