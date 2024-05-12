@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import './alco_gas.dart';
+import 'alco_gas.dart';
 
 void main(){
   runApp(Main());
